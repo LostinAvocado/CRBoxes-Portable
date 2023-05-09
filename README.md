@@ -5,6 +5,12 @@ Based on Big Clive's video on DIY HEPA air cleaner: https://youtu.be/6Vmh2Ip2Vxg
 
 Assembled pics: https://imgur.com/a/Qprsn5h
 
+### 3D Printing STL files
+
+I had these printed at a local library. You might check there, or with a local community college, university, or high school if you don't have access to a 3D printer otherwise, and sometimes there are local maker groups. 
+
+There are 6 files, choose the one that matches the combination of filter and PC fan you want to use, you may need to use a rubber band or duct tape to get a tight fit (since I left some room so the adapter would definitely fit the filter). 
+
 ### HEPA filters:
 
 The below filters are ones that are OEM and that I felt would be most likely to be "geniune" HEPA as stated.
